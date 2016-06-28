@@ -7,6 +7,7 @@
     <Dialogs />
     <Resources>
         <File name="swiftswords_ext" src="behavior_1/swiftswords_ext.mp3" />
+        <File name="Fall Out Boy - Immortals - Mp3Visit.Com" src="Fall Out Boy - Immortals - Mp3Visit.Com.mp3" />
     </Resources>
     <Topics />
     <IgnoredPaths />
