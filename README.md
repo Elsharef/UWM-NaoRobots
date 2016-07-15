@@ -1,2 +1,2 @@
 # NAO
-Demonstrations the summer camp
+Demo material
